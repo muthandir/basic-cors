@@ -1,0 +1,14 @@
+{
+  "name": "basic-cors",
+  "version": "1.0.1",
+  "description": "basic cors helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/_mocha"
+  },
+  "author": "ogm-crbt",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
